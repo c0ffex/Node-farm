@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "express.js": "^1.0.0",
+    "http": "^0.0.1-security",
+    "prompt-sync": "^4.2.0",
+    "slugify": "^1.6.5"
+  },
+  "name": "node-farm",
+  "version": "1.0.0",
+  "description": "Learning node",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "c0ffex",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
